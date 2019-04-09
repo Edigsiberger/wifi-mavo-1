@@ -3,7 +3,14 @@
 	"subtitle": "Bye bye World wejlg wjepo gwejopwf ew",
 	"news": [
 		{
-			"title": "Mein News Title"
+			"title": "Mein News Title",
+			"date": "20.01.2019",
+			"description": "Hier steht eine Beschreibung"
+		},
+		{
+			"title": "Weitere News",
+			"date": "13.03.18",
+			"description": "Hier steht walg waioef nawoifn waoiefn waioef wef"
 		}
 	]
 }
